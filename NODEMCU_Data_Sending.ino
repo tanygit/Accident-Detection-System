@@ -3,10 +3,7 @@
 #include <ESP8266HTTPClient.h>
 
 // ThingSpeak API URL and API Key
-String URL = "http://api.thingspeak.com/update?api_key=LH1NPIBZH5A2Z0LW";
-
-// http://api.thingspeak.com/update?api_key=JKX5F7ECNCC2REAX&field
-
+String URL = "xyz";
 
 int i=1;
 
@@ -14,7 +11,7 @@ void setup() {
   Serial.begin(9600);
   
   // Connect to WiFi network
-  WiFi.begin("Kori", "dvdu0231"); 
+  WiFi.begin("wifiname", "password"); 
   
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
