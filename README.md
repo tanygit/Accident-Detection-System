@@ -19,4 +19,8 @@ Welcome to the Accident Detection System for scooters. This project is designed 
 - Emergency Stop Operator (ESO)
 - Basic mobile app (compatible with Android)
 
+## Flowchart
+![Flowchart](./flowchart.jpg)
+
+
   
