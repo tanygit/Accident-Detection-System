@@ -28,15 +28,15 @@ The module was attached over the speedometer of the scooter to data acquisitions
 The readings are being read from the sensors and are being sent to the Arduino Uno R3 and these readings are sent to ESP8266 viva UART communication protocol.The readings received by the ESP8266 module which has wifi connectivity is sending the data to ThingSpeak cloud which collects the the website.From there the stored data is being downloaded as a CSV file and the data is being visualized using Microsoft Power BI.
 
 ## Plots
-**Accelerometer data from MPU6050**
++ **Accelerometer data from MPU6050**
 
 ![Accel.data](./Accelrometer.jpg)
 
-**Gyroscope data from MPU6050**
++ **Gyroscope data from MPU6050**
 
 ![Gyro data](./Gyroscope.jpg)
 
-**Vibartion Sensor Data**
++ **Vibartion Sensor Data**
 
 ![Vibr. data](./Vibration_sensor.jpg)
 
