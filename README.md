@@ -20,7 +20,7 @@ Welcome to the Accident Detection System for scooters. This project is designed 
 - Basic mobile app (compatible with Android)
 
 ## Flowchart
-![Flowchart](./flowchart.jpg)
+![Flowchart](./Images/flowchart.jpg)
 
 # Data 
 ## Acquisition: 
@@ -30,15 +30,15 @@ The readings are being read from the sensors and are being sent to the Arduino U
 ## Plots
 + **Accelerometer data from MPU6050**
 
-![Accel.data](./Accelrometer.jpg)
+![Accel.data](./Iamges/Accelrometer.jpg)
 
 + **Gyroscope data from MPU6050**
 
-![Gyro data](./Gyroscope.jpg)
+![Gyro data](./Images/Gyroscope.jpg)
 
 + **Vibartion Sensor Data**
 
-![Vibr. data](./Vibration_sensor.jpg)
+![Vibr. data](./Images/Vibration_sensor.jpg)
 
 
 
