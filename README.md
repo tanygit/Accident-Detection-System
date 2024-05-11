@@ -30,7 +30,7 @@ The readings are being read from the sensors and are being sent to the Arduino U
 ## Plots
 + **Accelerometer data from MPU6050**
 
-![Accel.data](./Iamges/Accelrometer.jpg)
+![Accel.data](./Images/Accelrometer.jpg)
 
 + **Gyroscope data from MPU6050**
 
