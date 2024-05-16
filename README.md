@@ -16,7 +16,6 @@ Welcome to the Accident Detection System for scooters. This project is designed 
 - MPU (Motion Processing Unit)
 - Vibration Sensor
 - GPS Module
-- Emergency Stop Operator (ESO)
 - Basic mobile app (compatible with Android)
 
 ## Flowchart
