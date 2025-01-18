@@ -21,6 +21,9 @@ Welcome to the Accident Detection System for scooters. This project is designed 
 ## Flowchart
 ![Flowchart](./Images/flowchart.jpg)
 
+## Block diagram
+![Block Diagram](./Images/blockdiagram.png)
+
 # Data 
 ## Acquisition: 
 The module was attached over the speedometer of the scooter to data acquisitions.The data acquired was from MPU6050 sensor and  SW420 -vibration sensor.From MPU6050 the accelerometer and gyroscope readings are being acquired.From the accelerometer readings the acceleration of the vehicle in terms of the 3 different axis is being acquired it terms of “g”(acceleration due to gravity ) from the gyroscope the rate of rotation in terms of the 3 different axis is being acquired in terms of degree/s .The vibration sensor readings are in terms of milliseconds (how long did the vibrations last).<br>
