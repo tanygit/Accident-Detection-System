@@ -22,7 +22,7 @@ Welcome to the Accident Detection System for scooters. This project is designed 
 ![Flowchart](./Images/flowchart.jpg)
 
 ## Block diagram
-![Block Diagram](./Images/block diagram.png)
+![Block Diagram](./Images/block%20diagram.png)
 
 # Data 
 ## Acquisition: 
